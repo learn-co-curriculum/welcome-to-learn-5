@@ -1,4 +1,4 @@
-# Solving Your First Lab
+1. * > ******# Solving Your First Lab[![](http://)](http://)
 
 Now that you've got the Learn IDE up and running, you're going to use it to solve your very first lab on Learn. 
 
@@ -16,8 +16,8 @@ In this this lesson you will practice the workflow that allows you to solve labs
 
 1. Click on the "Open" link on the lab toolbar above.
 
-![Open](https://s3.amazonaws.com/learn-verified/LearnOpen.png)
 
+![Open](https://s3.amazonaws.com/learn-verified/LearnOpen.png)
 After you click on this, your Learn IDE will launch. 
 
 2. You should see all of the files associated with this lab in the Learn IDE's file browser on the left pane.
@@ -45,3 +45,5 @@ You should see this lab pass on Learn.co (if you don't, try hitting refresh, if 
 ## Video Demo
 
 <iframe width="100%" height="720" src="https://www.youtube.com/embed/R-G9JuXDuCk?rel=0&amp;showinfo=0" frameborder="0" allowfullscreen></iframe>
+
+<p class='util--hide'>View <a href='https://learn.co/lessons/welcome-to-learn-5'>Your First Lab</a> on Learn.co and start learning to code for free.</p>
