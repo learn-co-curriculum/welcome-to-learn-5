@@ -32,7 +32,7 @@ After you click on this, your Learn IDE will launch.
 
 You can see your test is currently failing, which is fine. We haven't done any work yet, so it makes sense.
 
-The failure reads: `Make sure you have edited the file edit-me.txt`
+qThe failure reads: `Make sure you have edited the file edit-me.txt`
 
 6. To pass this lab, make any change to the content of the `edit-me.txt` file. You can do this by clicking on the name of the file in the file browser in the left pane; its contents will load in the text editor. Type into the text editor to change the contents of the file, then save your changes.
 
