@@ -16,8 +16,8 @@ In this lesson you will practice the workflow that allows you to solve labs on L
 
 1. Click on the "Open" link on the lab toolbar above.
 
-![Open](https://s3.amazonaws.com/learn-verified/LearnOpen.png)
-
+![Open](https://s3..com/learn-verified/LearnOpen.png)
+amazonaws
 After you click on this, your Learn IDE will launch. 
 
 2. You should see all of the files associated with this lab in the Learn IDE's file browser on the left pane.
