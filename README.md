@@ -12,7 +12,7 @@ Now that you've got the Learn IDE up and running, you're going to use it to solv
 
 ## Instructions
 
-In this this lesson you will practice the workflow that allows you to solve labs on Learn.
+In this lesson you will practice the workflow that allows you to solve labs on Learn.
 
 1. Click on the "Open" link on the lab toolbar above.
 
@@ -34,14 +34,16 @@ You can see your test is currently failing, which is fine. We haven't done any w
 
 The failure reads: `Make sure you have edited the file edit-me.txt`
 
-6. To pass this lab, make any change to the content of the `edit-me.txt` file. You can do this by clicking on the name of the file in the file browser in the left pane; its contents will load in the text editor. Type into the text editor to change the contents of the file, then save your changes.
+6. To pass this lab, make any change to the `edit-me.txt` file (this file starts of empty). You can do this by clicking on the name of the file in the file browser in the left pane; the empty file will load in the text editor. Type into the text editor to change the contents of the file, then save your changes.
 
 7. Once your local tests are passing, you can submit this lab by running `learn submit` from your terminal.
 
-![learn-submit](https://s3.amazonaws.com/learn-verified/LearnSubmit2.png)
+[![learn-submit](https://s3.amazonaws.com/learn-verified/LearnSubmit2.png)](http://)[![learn-submit](https://s3.amazonaws.com/learn-verified/LearnSubmit2.png)](http://)[![learn-submit](https://s3.amazonaws.com/learn-verified/LearnSubmit2.png)](http://)[![learn-submit](https://s3.amazonaws.com/learn-verified/LearnSubmit2.png)](http://)
 
 You should see this lab pass on Learn.co (if you don't, try hitting refresh, if you still don't, "Ask a Question" and we'll help). Congratulations! You've just solved your first lab. 
 
 ## Video Demo
 
-<iframe width="100%" height="720" src="https://www.youtube.com/embed/R-G9JuXDuCk?rel=0&amp;showinfo=0" frameborder="0" allowfullscreen></iframe>
+<iframe width="100%" height="720" src="https://www.youtube.com/embed/MZ2vUG6p1PY?rel=0&amp;showinfo=0" frameborder="0" allowfullscreen></iframe>
+
+<p class='util--hide'>View <a href='https://learn.co/lessons/welcome-to-learn-5'>Your First Lab</a> on Learn.co and start learning to code for free.</p>
