@@ -16,31 +16,31 @@ In this lesson you will practice the workflow that allows you to solve labs on L
 
 1. Click on the "Open" link on the lab toolbar above.
 
-![Open](https://s3.amazonaws.com/learn-verified/LearnOpen.png)
+  ![Open](https://s3.amazonaws.com/learn-verified/LearnOpen.png)
 
-After you click on this, your Learn IDE will launch. 
+  After you click on this, your Learn IDE will launch.
 
-2. You should see all of the files associated with this lab in the Learn IDE's file browser on the left pane.
+2. You should see all of the files associated with this lab in the Learn IDE's file browser (the left pane).
 
-3. In the console on the bottom pane, run the test suite by typing `learn` and hitting enter. 
+3. In the console (the bottom pane), run the test suite by typing `learn` and hitting enter.
 
-![lab-fail](http://learn-co-videos.s3.amazonaws.com/welcome/first-lab-setup.png)
+  ![lab-fail](http://learn-co-videos.s3.amazonaws.com/welcome/first-lab-setup.png)
 
-5. You'll see something similar to:
+4. You'll see something similar to:
 
-![lab-fail](https://s3.amazonaws.com/learn-verified/LearnRunningLearrn.png)
+  ![lab-fail](https://s3.amazonaws.com/learn-verified/LearnRunningLearrn.png)
 
-You can see your test is currently failing, which is fine. We haven't done any work yet, so it makes sense.
+  You can see your test is currently failing, which is fine. We haven't done any work yet, so it makes sense.
 
-The failure reads: `Make sure you have edited the file edit-me.txt`
+  The failure reads: `Make sure you have edited the file edit-me.txt`
 
-6. To pass this lab, make any change to the `edit-me.txt` file (this file starts of empty). You can do this by clicking on the name of the file in the file browser in the left pane; the empty file will load in the text editor. Type into the text editor to change the contents of the file, then save your changes.
+5. To pass this lab, make any change to the `edit-me.txt` file (this file starts off empty). You can do this by clicking on the name of the file in the file browser in the left pane; the empty file will load in the text editor. Type into the text editor to change the contents of the file, then save your changes.
 
-7. Once your local tests are passing, you can submit this lab by running `learn submit` from your terminal.
+6. Once your local tests are passing, you can submit this lab by running `learn submit` from your terminal.
 
-![learn-submit](https://s3.amazonaws.com/learn-verified/LearnSubmit2.png)
+  ![learn-submit](https://s3.amazonaws.com/learn-verified/LearnSubmit2.png)
 
-You should see this lab pass on Learn.co (if you don't, try hitting refresh, if you still don't, "Ask a Question" and we'll help). Congratulations! You've just solved your first lab. 
+  You should see this lab pass on Learn.co (if you don't, try hitting refresh; if you still don't, use "Ask a Question", and we'll help). Congratulations! You've just solved your first lab.
 
 ## Video Demo
 
