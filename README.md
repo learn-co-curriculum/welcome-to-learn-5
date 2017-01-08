@@ -28,7 +28,7 @@ After you click on this, your Learn IDE will launch.
 
 5. You'll see something similar to:
 
-![lab-fail](https://s3.amazonaws.com/learn-verified/LearnRunningLearrn.png)
+![lab-fail](https://s3.amazonaws.com/learn-verified/LearnRunningLearrn.png)******
 
 You can see your test is currently failing, which is fine. We haven't done any work yet, so it makes sense.
 
