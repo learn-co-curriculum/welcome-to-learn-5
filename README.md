@@ -5,7 +5,7 @@ Now that you've got the Learn IDE up and running, you're going to use it to solv
 ## Objectives
 
 1. Open a lab by clicking "Open" on this page on Learn.co
-2. Run the lab's tests with the `learn` CLI command
+> 2. Run the lab's tests with the `learn` CLI command This comman is very hard to understand exactly what you want us to do.
 3. Make a change to your copy of this lab
 4. Pass the tests using the `learn` CLI command
 5. Submit the passing lab with the `learn submit` CLI command
