@@ -1,4 +1,4 @@
-# Solving Your First Lab
+1. > * [![](http://)](http://)# Solving Your First Lab**[![](http://)]Y2 lenguaje natural de computacion(http://)
 
 Now that you've got the Learn IDE up and running, you're going to use it to solve your very first lab on Learn. 
 
