@@ -46,4 +46,6 @@ In this lesson you will practice the workflow that allows you to solve labs on L
 
 <iframe width="100%" height="720" src="https://www.youtube.com/embed/MZ2vUG6p1PY?rel=0&amp;showinfo=0" frameborder="0" allowfullscreen></iframe>
 
+>Note: This video is played at a pretty fast speed to give you an idea of what the flow of this lab should look like. If it's too fast for you and you'd like to see it slower, click the gear in the bottom right hand corner of the video, select speed, and then select a slower speed :)
+
 <p class='util--hide'>View <a href='https://learn.co/lessons/welcome-to-learn-5'>Your First Lab</a> on Learn.co and start learning to code for free.</p>
