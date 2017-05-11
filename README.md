@@ -24,7 +24,7 @@ In this lesson you will practice the workflow that allows you to solve labs on L
 
 3. In the console (the bottom pane), run the test suite by typing `learn` and hitting enter.
 
-  ![lab-fail](http://learn-co-videos.s3.amazonaws.com/welcome/first-lab-setup.png)
+  ![lab-fail](https://learn-co-videos.s3.amazonaws.com/welcome/first-lab-setup.png)
 
 4. You'll see something similar to:
 
