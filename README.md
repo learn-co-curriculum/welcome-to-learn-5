@@ -18,7 +18,7 @@ In this lesson you will practice the workflow that allows you to solve labs on L
 
   ![Open](https://s3.amazonaws.com/learn-verified/LearnOpen.png)
 
-  After you click on this, your Learn IDE will launch.
+  After you click on this, your Learn IDE will launch. Note: If Open button does not do anything, manually open up the Learn IDE and type `learn open` into the Learn IDE terminal. This is another way you will be able to open the lab!
 
 2. You should see all of the files associated with this lab in the Learn IDE's file browser (the left pane).
 
